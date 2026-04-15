@@ -81,11 +81,6 @@ run.sh
 data/
 ```
 
-## Notes
-
-- Do not commit compiled `.class` files.
-- If you want a clean GitHub repo, keep the source files and CSV files together so the app runs immediately after clone.
-- If you do not want to expose sample data, sanitize the CSV files before pushing.
 
 ## License
 
